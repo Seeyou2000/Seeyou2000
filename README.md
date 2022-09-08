@@ -1,3 +1,4 @@
+안녕하세요, 서울과학기술대학교 컴퓨터공학과 19학번 김시우입니다!
 ### 알고리즘 수련중! 👋
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=valentine0517)
 
